@@ -1,4 +1,4 @@
 # Muhammad-Asad-1
-This is my scond Class
+This is my second Class
 <br>
 Author-Asad Qayyum
